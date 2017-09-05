@@ -1,0 +1,8 @@
+{
+	"location": "https://github.com/Computer-Know-how/cbmodule-mailinglist/raw/master/cbmodule-mailinglist.zip",
+	"name": "Mailing List",
+	"packageDirectory": "cbmodule-mailinglist",
+	"slug": "cbmodule-mailinglist",
+	"type": "contentbox-modules",
+	"version": "1.0"
+}

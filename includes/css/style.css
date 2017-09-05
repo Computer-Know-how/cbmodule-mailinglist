@@ -1,0 +1,53 @@
+.buttonBar {
+	margin: 0;
+}
+
+.buttonBar .btn {
+	margin-bottom: 10px;
+}
+
+.well-small {
+	padding: 2px 9px 0 9px;
+}
+
+.well-small .buttonBar {
+	margin: 10px 0px 0px 10px;
+}
+
+.small_box .btn {
+	margin-bottom: 5px;
+}
+
+.form-actions {
+	margin-bottom: -8px;
+	padding-left: 0;
+}
+
+.header .icon-large {
+	font-size: 21px;
+}
+
+.icon-trash {
+	position: relative;
+	top: -1px;
+}
+
+.table .icon-envelope-alt {
+	position: relative;
+	top: -1px;
+	margin-right: 2px;
+}
+
+.nav li [class^="icon-"],
+.nav li [class*=" icon-"] {
+	font-size: 14px;
+}
+
+.table i[class^="icon-"],
+.table i[class*=" icon-"] {
+	font-size: 11px;
+}
+
+#main-sidebar {
+	margin-left: 15px !important;
+}
